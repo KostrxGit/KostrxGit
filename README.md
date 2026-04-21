@@ -10,10 +10,6 @@ I am comfortable working across the full stack while maintaining code quality, a
 
 Currently, I am expanding my knowledge in cloud infrastructure and advanced AI applications.
 
-## Objective
-
-Build scalable, production-ready web and AI-powered solutions with a strong focus on backend foundations, modern frontend architecture, and continuous technical growth.
-
 ## Currently Seeking
 
 I am looking for freelance, co-op, internship, junior developer, and contract opportunities in:
@@ -27,89 +23,36 @@ I am ready to contribute to scalable systems and data-driven applications while 
 
 ## Tech Stack
 
-- React
-- TypeScript
-- React Native (Expo)
-- Node.js
-- Express
-- REST APIs
-- SQL
-- MySQL
-- MongoDB
-- Python
-- Rust
-- Git
-- GitHub
-- AI Integration
-- OpenAI API
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,tailwind,bootstrap" />
+</p>
 
-## Education
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,rust" />
+</p>
 
-### Bachelor of Software Engineering  
-**University of Southern Denmark (SDU)**  
-2025 – 2028
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite" />
+</p>
 
-### Programming Technician  
-**Zespół Szkół Nr 1 im. Ignacego Łukasiewicza**  
-2020 – 2025  
-Certified Programming Technician diploma
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
-## Experience
+### Additional Focus
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Integration-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-### Full-Stack Developer  
-**Tingster ApS**  
-2026 – Present
 
-- Mobile application development using React Native (Expo) and TypeScript
-- Delivered new features and improvements based on user feedback and analytics
-- Worked with third-party API and service integrations to enhance application functionality
-
-### Programmer / IT Specialist Intern  
-**Wyższa Szkoła Biznesu - National Louis University**  
-2024 (2 months)
-
-- Developed and tested a C#/.NET application
-- Enhanced features and fixed issues
-- Applied analytical problem-solving and quickly learned new tools
-- Worked independently and collaboratively within a development team
-
-### Programmer / IT Specialist Intern  
-**TLC sp. z o.o**  
-2024 (2 months)
-
-- Assisted in developing and maintaining an internal employee portal
-- Supported database management and optimization
-- Helped improve usability, workflow, and business process support
-
-## Projects
-
-### Neural Network from Scratch
-Neural network built from scratch in Rust to recognize handwritten digits. Implemented forward and backward propagation, training on the MNIST dataset.
-
-**Tech:** Rust, AI, Neural Networks, Machine Learning
-
-### Spine vs Arm - AI Recognition
-Application built with PyTorch and FastAI to recognize X-rays of spine and arm bones. Achieved 85% accuracy on the test set, with focus on preprocessing, model architecture, and training optimization.
-
-**Tech:** Python, PyTorch, FastAI, AI, Computer Vision
-
-### Benchmarking AI Tool - G.E.A.R. x Danfoss 2nd Hackathon Project (3rd Place)
-AI benchmarking tool built with React, Node.js, and OpenAI API to scrape PDF data and compare products.
-
-**Tech:** React, Node.js, OpenAI API, AI, Web Development
-
-## Contact
-
-- **Email:** kostrx.gitcontact@gmail.com
-- **Phone:** +45 50 28 05 62
-- **Location:** Sønderborg, Denmark
-
-## Availability
-
-**Status:** Active & Available  
-**Response Time:** 24–48 hours
-
-Open to discussing internships, freelance work, part-time roles, full-time roles, and contract opportunities.
 
 ---
 
